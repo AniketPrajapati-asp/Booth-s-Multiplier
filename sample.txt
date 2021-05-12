@@ -1,3 +1,9 @@
+Simple demonstration of Booth's Multiplier.
+
+To use download the Booths.java file along with the folder above it.
+The folder has 2 images used inside the project.
+
+Be happy & enjoy....
+
 Aniket Prajapati
 aniketprajapati7777@gmail.com
-Te student
